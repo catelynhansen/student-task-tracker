@@ -1,9 +1,10 @@
 # student-task-tracker
 A beginner web project built to practice HTML, CSS, and basic programming logic.
 ## Features
-- Add tasks
+- Add tasks dynamically
 - View tasks in a list
-- Clean and simple design
+- Clean and simple user interface
+- Mark tasks as completed using checkboxes
 
 ## Technologies Used
 - HTML
