@@ -9,5 +9,10 @@ A beginner web project built to practice HTML, CSS, and basic programming logic.
 - HTML
 - CSS
 
+## What I Learned
+- Basic HTML page structure
+- How to link a CSS file to HTML
+- Using GitHub to manage a project
+
 ## Author
 Catelyn Hansen
