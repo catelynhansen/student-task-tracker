@@ -17,6 +17,9 @@ A beginner web project built to practice HTML, CSS, and basic programming logic.
 - Structuring content using lists and inputs
 - Improving UI with basic CSS styling
 
+## Live Demo
+https://yourusername.github.io/student-task-tracker/
+
 
 ## Author
 Catelyn Hansen
