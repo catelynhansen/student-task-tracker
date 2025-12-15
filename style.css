@@ -17,3 +17,13 @@ li {
   margin-bottom: 10px;
   border-radius: 5px;
 }
+input {
+  padding: 8px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+
