@@ -7,8 +7,16 @@ function addTask() {
   }
 
   const li = document.createElement("li");
-  li.textContent = taskText;
+
+  const checkbox = document.createElement("input");
+  checkbox.type = "checkbox";
+
+  const text = document.createTextNode(" " + taskText);
+
+  li.appendChild(checkbox);
+  li.appendChild(text);
 
   document.getElementById("taskList").appendChild(li);
   input.value = "";
 }
+
